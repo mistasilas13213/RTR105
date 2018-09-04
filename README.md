@@ -1,2 +1,3 @@
 # RTR105
-Datormācības kursa elektroniskā klade
+# Datormācības kursa elektroniskā klade
+<big> uname - operētājsistēmas informācija
