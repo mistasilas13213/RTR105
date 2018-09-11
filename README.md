@@ -1,28 +1,48 @@
 # RTR105
 # Datormācības kursa elektroniskā klade
 
-  <br>uname - Parāda operētājsistēmu</br>
+  ## uname - Parāda operētājsistēmu
 	
-  <br>uname -r - Parāda operētājsistēmas versiju</br>
+  ### uname -r - Parāda operētājsistēmas versiju
+  
+  uname -a - `Pilna informācija` par operētājsistēmu
 	
-  <br>uname -a - Pilna informācija par operētājsistēmu</br>
+  history - Parāda **komandu** vēsturi
 	
-  <br>history - Parāda komandu vēsturi</br>
+  echo ~~$0~~- __Shell valodas dialekts (*Bash*)__
 	
-  <br>echo $0 - Shell valodas dialekts (Bash)</br>
+  **man** - *instrukcija par kādu konkrētu komandu* un parāda papildkomandas un ko tās dara
 	
-  <br>man - intrukcija par kādu konkrētu komandu un parāda papildkomandas un ko tās dara</br>
+  whoami - Parāda lietotāju
 	
-  <br>whoami - Parāda lietotāju</br>
+  who - Parāda kurš ir ielogojies
 	
-  <br>who - Parāda kurš ir ielogojies</br>
+  pwd - Parāda tagad strādājošo mapi
 	
-  <br>pwd - Parāda tagad strādājošo mapi</br>
+  ls - Parāda mapju sarakstu
 	
-  <br>ls - Parāda mapju sarakstu</br>
+  ls -a - Parāda mapju sarakstu, kā arī paslēptās mapes
 	
-  <br>ls -a - Parāda mapju sarakstu, kā arī paslēptās mapes</br>
-	
-  <br>ls -la - Parāda mapju sarakstu, paslēptās mapes,un katras mapes lietotāju tiesības</br>
+  ls -la - Parāda mapju sarakstu, paslēptās mapes,un katras mapes lietotāju tiesības 
+  
+  **cd - maina mapi**
+  
+  *mkdir - izveido mapi*
+  
+  ~~rmdir - izdzēš mapi~~
+  
+  rm :
+  > izdēš failu vai mapi
+
+  **echo - _parāda_ tekstu**
+  
+  *cat - saķēdē failus un izprintē tos standarta izejā*
+  
+  ~~chmod - maina faila bitus(tiesības)
+  
+  **nano - rediģētājs**
+  
+  mv:
+  > pārvieto(maina nosaukumu) failu
   
   
