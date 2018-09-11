@@ -1,0 +1,129 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  firefox &
+    5  whoami]
+    6  whoami
+    7  pwd
+    8  l
+    9  ls
+   10  la -l
+   11  cd desktop
+   12  cd Desktop/
+   13  pwd
+   14  ls -l
+   15  cd /home/user
+   16  pwd
+   17  cd Desktop/
+   18  ls -la
+   19  cd .
+   20  pwd
+   21  cd ..
+   22  pwed
+   23  pwd
+   24  ls -la
+   25  pwd
+   26  cd ..
+   27  pwd
+   28  cd ..
+   29  pwd
+   30  cd /home/user
+   31  pwd
+   32  cd /
+   33  pwd
+   34  cd ~
+   35  pwd
+   36  cd/]
+   37  cd /
+   38  pwd
+   39  cd
+   40  pwd
+   41  ls -l
+   42  mkdir
+   43  mkdir ManaMape
+   44  ls -l
+   45  cd ManaMape/
+   46  pwd
+   47  ls
+   48  ls -la
+   49  cd .
+   50  pwd
+   51  cd ..
+   52  pwd
+   53  rmdir ManaMape/
+   54  ls
+   55  mkdir ManaMape
+   56  ls
+   57  cd ManaMape/
+   58  pwd
+   59  mkdir ManaPapildusMape
+   60  ls -l
+   61  cd ..
+   62  ls -l
+   63  mkdir ManaMape
+   64  rmdir ManaMape/
+   65  man rmdir
+   66  man rm
+   67  rm ManaMape/
+   68  rm -f ManaMape/
+   69  rm -r ManaMape/
+   70  pwd
+   71  ls
+   72  ls -l
+   73  man echo
+   74  echo "Teksts"
+   75  echo "Teksts teksts teksts"
+   76  echo -e "Teksts\n teksts\n teksts"
+   77  echo "Teksts" > fails1.txt
+   78  ls
+   79  ls -l
+   80  echo "Teksts" > ../fails1.txt
+   81  cd ..
+   82  pwd
+   83  cd ..
+   84  ls -l
+   85  cd
+   86  pwd
+   87  ls -l
+   88  cat fails1.txt 
+   89  ls
+   90  echo "Cits teksts" > fails1.txt
+   91  ls
+   92  cat fails1.txt 
+   93  echo "Teksts" > fails1.txt
+   94  cat fails1.txt 
+   95  echo "Cits teksts" >> fails1.txt
+   96  cat fails1.txt 
+   97  ls -l
+   98  ls -l fails1.txt 
+   99  man chmod
+  100  chmod 700 fails1.txt 
+  101  ls -l
+  102  chmod 400 fails1.txt 
+  103  ls -l
+  104  echo "Teksts" > fails1.txt
+  105  chmod 600 fails1.txt 
+  106  ls -l
+  107  nano fails1.txt 
+  108  ls -l
+  109  cp fails
+  110  cp fails1.txt  fails3.txt
+  111  ;s -l
+  112  ls -l
+  113  mv *.txt Music/
+  114  ls -l
+  115  cd Music/
+  116  ls -l
+  117  mv *.txt ../
+  118  ls -l
+  119  cd ..
+  120  ls -l
+  121  mv fails1.txt fails31.txt
+  122  ls -l
+  123  rm *3*.txt
+  124  ls -
+  125  ls -l
+  126  rm fails2.txt 
+  127  ls -l
+  128  history
+  129  history > history_20180911.txt
