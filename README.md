@@ -13,17 +13,19 @@
 	
   **man** - *instrukcija par kādu konkrētu komandu* un parāda papildkomandas un ko tās dara
 	
-  whoami - Parāda lietotāju
+  **whoami - Parāda** *lietotāju*
 	
-  who - Parāda kurš ir ielogojies
+  ## who - ~~Parāda kurš~~ ir ielogojies
 	
-  pwd - Parāda tagad strādājošo mapi
+  ***pwd - Parāda ~~tagad~~ strādājošo mapi***
 	
-  ls - Parāda mapju sarakstu
+  ls -: 
+  > Parāda mapju sarakstu
 	
-  ls -a - Parāda mapju sarakstu, kā arī paslēptās mapes
+  **ls** -*a* - Parāda **mapju** sarakstu, kā arī ~~paslēptās~~ mapes
 	
-  ls -la - Parāda mapju sarakstu, paslēptās mapes,un katras mapes lietotāju tiesības 
+  *ls -la* - Parāda mapju sarakstu:
+  > paslēptās mapes,un katras mapes lietotāju tiesības 
   
   **cd - maina mapi**
   
