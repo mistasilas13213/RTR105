@@ -47,8 +47,10 @@
   mv:
   > pārvieto(maina nosaukumu) failu
   
-  whereis - atrod jebkura faila lokāciju
+  **where**is - *atrod jebkura* faila lokāciju
    
   PATH - izveidu ceļu
- 
-  
+
+  abs - parāda pilno vērtību
+
+  type - parāda komandas tipu
