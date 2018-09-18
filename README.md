@@ -49,8 +49,9 @@
   
   **where**is - *atrod jebkura* faila lokāciju
    
-  PATH - izveidu ceļu
+  PA**TH**:
+  > - izveidu ceļu
 
-  abs - parāda pilno vērtību
+  *abs* - parāda ~pilno~ vērtību
 
-  type - parāda komandas tipu
+  ***type*** - parāda **~komandas**~ tipu
