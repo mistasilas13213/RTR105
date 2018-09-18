@@ -50,7 +50,7 @@
   **where**is - *atrod jebkura* faila lokāciju
    
   PA**TH**:
-  > - izveidu ceļu
+  > - izveido ceļu
 
   *abs* - parāda ~pilno~ vērtību
 
