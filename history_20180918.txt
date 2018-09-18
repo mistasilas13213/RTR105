@@ -1,0 +1,54 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  echo -e "mkdir Mape\ncd Mape" > creat_in.sh
+    5  ls
+    6  cat create_in.sh
+    7  create
+    8  ls -l
+    9  echo $PATH
+   10  whereis cd
+   11  whereis firefox
+   12  echo -e "mkdir Mape\ncd Mape" > create_in.sh
+   13  ls
+   14  rmdir creat_in.sh
+   15  rm creat_in.sh
+   16  ls
+   17  cat create_in.sh
+   18  PATH
+   19  pwd
+   20  echo PATH
+   21  echo $PATH
+   22  pwd
+   23  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+   24  $PATH
+   25  create_in.sh
+   26  echo PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+   27  pwd
+   28  ls -l
+   29  chmod 764 create_in.sh
+   30  ls -l
+   31  create
+   32  create_in.sh
+   33  ls
+   34  echo $PATH
+   35  ls
+   36  mkdir Mape
+   37  ls
+   38  PATH=$PATH:~/Mape
+   39  echo $PATH
+   40  /home/user/create_in.sh
+   41  ./create_in.sh
+   42  nano create_in.sh
+   43  pwd
+   44  ls -l
+   45  git clone https://github.com/mistasilas13213/RTR105
+   46  cd RTR105
+   47  pwd
+   48  ls -l
+   49  nano README.md
+   50  history
+   51  nano README.md
+   52  nano git-upload
+   53  ls -l
+   54  history > history_20180918.txt

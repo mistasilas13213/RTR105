@@ -47,4 +47,8 @@
   mv:
   > pārvieto(maina nosaukumu) failu
   
+  whereis - atrod jebkura faila lokāciju
+   
+  PATH - izveidu ceļu
+ 
   
