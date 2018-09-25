@@ -55,3 +55,4 @@
   *abs* - parāda ~pilno~ vērtību
 
   ***type*** - parāda **~komandas**~ tipu
+  *idle* - *atver jaunu logu kurā* jādarbojas ar **Python** ~~valodu~~
