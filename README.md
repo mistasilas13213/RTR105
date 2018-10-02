@@ -56,5 +56,7 @@
 
   ***type*** - parāda **~komandas**~ tipu
   *idle* - *atver jaunu logu kurā* jādarbojas ar **Python** ~~valodu~~
+  
   *print* - komanda kas parāda mainīgo
-
+  
+  **./git-upload** - saglabā visas mapes repozitorijā
