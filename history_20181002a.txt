@@ -1,0 +1,14 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  cd https://edx2.etf.rtu.lv/portal
+    5  firefox &
+    6  git clone https://github.com/mistasilas13213/RTR105
+    7  mistasilas13213
+    8  nano
+    9  cd RTR105
+   10  idle &
+   11  cd README.md
+   12  nano README.md
+   13  ls -l
+   14  history > history_20181002a.txt
